@@ -13,13 +13,13 @@ canvas = Canvas(frame, bg="black", width=1500, height=800)
 canvas.pack()
 canvas
 
-background = PhotoImage(file='C:/Python/bar game/bar2.png')
+background = PhotoImage(file='./bar2.png')
 canvas.create_image(750, 0, anchor='n', image=background)
 
-beer = PhotoImage(file='C:/Python/bar game/beer.png')
-cola = PhotoImage(file='C:/Python/bar game/cola.png')
-wine = PhotoImage(file='C:/Python/bar game/wine.png')
-whiskey = PhotoImage(file='C:/Python/bar game/whiskey.png')
+beer = PhotoImage(file='./beer.png')
+cola = PhotoImage(file='./cola.png')
+wine = PhotoImage(file='./wine.png')
+whiskey = PhotoImage(file='./whiskey.png')
 
 title = Label(frame, text='Welcome to the Bar!', bg='brown', font=('arial 30 bold'))
 title.place(relx=0.345, rely=0.01)
