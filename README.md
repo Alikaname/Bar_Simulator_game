@@ -5,11 +5,11 @@ I also included the CLI version and its code that served as an inspiration for t
 
 How to run the game:
 
-1.clone the repository
+1. Clone the repository
 
-2.download files onto your pc
+2. Download files onto your pc
 
-3.run Bar_game.py or bar_game.exe if you dont have Python installed on your computer
+3. Run Bar_game.py or bar_game.exe if you dont have Python installed on your computer
 
 4. Enjoy!
 
